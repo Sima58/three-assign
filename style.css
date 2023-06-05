@@ -1,0 +1,120 @@
+body{
+    font-family: 'Instrument Sans', sans-serif;
+}
+.carousel-item{
+    height: 65vh;
+}
+.carousel-item::before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.5;
+}
+.carousel-caption{
+    top: 8rem;
+}
+.font{
+    font-size: 8vh;
+}
+.reg{
+    margin-left: 52px;
+    padding: 10px 30px 10px 30px;
+    opacity: 0.7;
+}
+#carouselExampleControls{
+    left: 140px;
+    top: 30px;
+    width: 992px;
+}
+.navbar{
+    margin-left: 140px;
+    margin-right: 182px;
+    top: 15px;
+}
+.navbar-nav{
+    margin-left: 43px;
+}
+.nav-item{
+    margin-left: 20px;  
+} 
+.discover{
+    margin-top: 20vh;
+}
+.Cards{
+    margin-left: 92px;
+}
+.card-text{
+    font-size: 12px;  
+}
+.Price{
+    font-size: 12px;
+}
+.text-muted{
+    font-size: 13px;
+    color: blue;
+}
+.row>*{
+    padding-left:0 !important;
+}
+.btn{
+    width: 180px;
+   
+}
+.bttn{
+    width: 180px;
+    margin-left: 560px;
+    margin-top: 40px;
+    padding: 10px 0 10px 0;
+    opacity: 0.8;
+}
+.feedback{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.some-text{
+    size: 50px;
+}
+#accordionExample{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.accordion-item{
+    margin-top: 20px;
+    
+}
+.comp{
+    text-align: center;
+    margin-top: 120px;
+}
+.compa{
+    margin-left: 190px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.Comimage{
+    width: 170px;
+    padding-left: 60px;
+}
+.foottext{
+    text-align: center;
+    margin: 100px 0 100px 0;
+}
+.icon{
+    padding-left: 15px;
+    color: whitesmoke;
+}
+.footimg{
+    font-size: 23px;
+    margin-right: 10px;
+}
+.foot{
+    background-color: #000;
+    color: whitesmoke;
+    padding: 1px;
+}
+
